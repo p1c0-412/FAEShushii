@@ -1,9 +1,9 @@
-# FAEShushii
+# p1c0-412
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FAEShushii">
-  <img src="https://shields.io/github/stars/FAEShushii">
-  <img src="https://img.shields.io/github/followers/FAEShushii">
+  <img src="https://komarev.com/ghpvc/?username=p1c0-412">
+  <img src="https://shields.io/github/stars/p1c0-412">
+  <img src="https://img.shields.io/github/followers/p1c0-412">
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=red">
 </p>
 
@@ -26,12 +26,12 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=FAEShushii&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FAEShushii&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=p1c0-412&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=p1c0-412&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=FAEShushii&show_icons=true&layout=compact&locale=en&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=p1c0-412&show_icons=true&layout=compact&locale=en&theme=radical&line_height=0" />
 </p> 
  
 
@@ -40,7 +40,7 @@
 
 ### 🌐️ Contact me
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FAEShushii)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/p1c0-412)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]()
 
 
